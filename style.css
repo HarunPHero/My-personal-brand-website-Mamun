@@ -1,0 +1,100 @@
+body{
+    margin:0px;
+}
+.Zam{
+    margin-top:7%;
+    font-size: 210%;
+    margin-left: 8%;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#Zam{
+    margin-left: 8%;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 230%;
+    color: rgb(241, 133, 200);
+}
+.m{
+    margin-left:8%;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: rgb(61, 57, 57);
+    font-weight: 500;
+    }
+    #mamun{
+      background-image: url(personal-website/header-bg.png) ; 
+      background-repeat: no-repeat;
+      height: 543px;
+      
+    background-size: contain;
+     text-align: justify;
+     padding: 10px ;
+    }
+
+.link-button{
+    border-radius: 7px;
+    text-decoration: none;
+    background-color: #ee3591d7;
+    padding: 10px 20px;
+    color:rgb(255, 255, 255);
+    font-weight: 700;
+    font-family:'Source Sans Pro', sans-serif;
+    margin-left: 8%;
+    
+  }
+  #latest-work{
+    margin: 0px;
+    background-image: url(personal-website/latest-work-bg.png) ;
+    background-repeat: no-repeat;
+      height: 600px;
+      background-position: right;
+      background-size: contain;
+     text-align: justify;
+     padding-bottom: 2%;
+      }
+      .biography{
+        width: 4%;
+       float: left;
+       margin-left: 5%;
+       padding-left: 2%;
+       
+          
+      }
+      #biography{
+        width: 80%;
+       float: left;
+       margin-left: 5%;
+       padding-left: 2%;
+       
+          
+      }
+
+      .second{
+        background-image: url(personal-website/biography-bg.png);padding-top: 0px;
+       height: 500px;
+      
+       
+       background-size: contain;
+       padding: 70px 5px 2px 5px;
+
+      }
+  .link-button-2{
+    border-radius: 7px;
+    text-decoration: none;
+    background-color:#ee3591d7;
+    padding: 10px 20px;
+    color:rgb(255, 255, 255);
+    font-weight: 700;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 35%;
+
+  }
+  #lubaba{
+    background-image: url(personal-website/footer-bg.png);
+    background-repeat: no-repeat;
+    height: 700px;
+    background-size: contain;
+    padding-top: 40px;
+    
+  }
+  
+      
+  
